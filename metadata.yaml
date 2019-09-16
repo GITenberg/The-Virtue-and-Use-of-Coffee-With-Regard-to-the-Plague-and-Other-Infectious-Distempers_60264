@@ -1,0 +1,28 @@
+_repo: The-Virtue-and-Use-of-Coffee-With-Regard-to-the-Plague-and-Other-Infectious-Distempers_60264
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradley, Richard
+    alias: Bradley, R. (Richard)
+    birthdate: 1688
+    deathdate: 1732
+    gutenberg_agent_id: '2400'
+    url: http://www.gutenberg.org/2009/agents/2400
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Bradley_(botanist)
+description: ''
+gutenberg_issued: '2019-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60264'
+  lccn: 07018440
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Coffee -- Therapeutic use -- Early works to 1800'
+- GITenberg
+title: The Virtue and Use of Coffee With Regard to the Plague and Other Infectious
+  Distempers
+url: http://www.gutenberg.org/ebooks/60264
